@@ -38,3 +38,18 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://raw.githubusercontent.com/xidoke/xidoke/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools (Still Learning) ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,react,nextjs,figma" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nestjs" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,bash" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb"  >
+</div>
+
+<br/>
+<hr/>
