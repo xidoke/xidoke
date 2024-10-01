@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/xidoke/xidoke/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/xidoke/xidoke/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
