@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+xidoke;This+is..;..my+Github..;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Xidoke;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
 
@@ -52,4 +52,22 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
-<hr/>
+
+<div align="center">
+<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xidoke&theme=github_dark" alt="Xidoke's GitHub Stats"/></td>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xidoke&theme=github_dark" alt="Xidoke's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xidoke&theme=github_dark&utcOffset=10" alt="Xidoke's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xidoke&theme=github_dark" alt="Xidoke's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xidoke&theme=github_dark" alt="Xidoke's GitHub Stats"/></td>
+    </tr>
+ </table>
+</div>
