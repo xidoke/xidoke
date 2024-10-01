@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-    <!-- <p>
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmx6OGcxbDh2NWlzdDg1eWEzNmtoajY1MDlnZjAxdGgwcm41MzB2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.webp" alt="rainy">
-    </p> -->
     <p>
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGN6dTBnbGduMjRxMW84MmxiNjYydzZtbzVlbm56N3VicnltaWhvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" alt="matrix" width=100%>
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmx6OGcxbDh2NWlzdDg1eWEzNmtoajY1MDlnZjAxdGgwcm41MzB2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.webp" alt="rainy">
     </p>
+    <!-- <p>
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGN6dTBnbGduMjRxMW84MmxiNjYydzZtbzVlbm56N3VicnltaWhvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" alt="matrix" width=100%>
+    </p> -->
 </div>
 
 <div align="center">
